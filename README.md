@@ -1,2 +1,3 @@
 # Erasmus-2025
-Hello world
+Hello Martin
+My hobby is playing sports and watching movies.
